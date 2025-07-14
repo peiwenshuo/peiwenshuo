@@ -49,11 +49,11 @@
 
 ```typescript
 interface Developer {
-  name: Wenshuo Pei;
-  role: Full Stack Developer;
-  currentProjects: AI Travel Assistant;
-  learning: Machine Learning, React, Cloud Computing, System Design;
-  interests: Ai;
+  name: string;
+  role: string[];
+  currentProjects: string[];
+  learning: string[];
+  interests: string[];
 }
 
 const wenshuo: Developer = {
@@ -63,8 +63,8 @@ const wenshuo: Developer = {
     "🤖 AI Travel Assistant",
     "🌍 Concord Travel Platform"
   ],
-  learning: ["System Design", "Cloud Architecture", "AI/ML"],
-  interests: ["Full Stack", "Game Dev", "Travel Tech", "Open Source"]
+  learning: ["Machine Learning", "React", "Cloud Computing", "System Design"],
+  interests: ["AI", "Full Stack", "Game Dev", "Travel Tech", "Open Source"]
 };
 ```
 
