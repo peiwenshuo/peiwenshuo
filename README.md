@@ -49,11 +49,11 @@
 
 ```typescript
 interface Developer {
-  name: string;
-  role: string[];
-  currentProjects: string[];
-  learning: string[];
-  interests: string[];
+  name: Wenshuo Pei;
+  role: Full Stack Developer;
+  currentProjects: AI Travel Assistant;
+  learning: Machine Learning, React, Cloud Computing, System Design;
+  interests: Ai;
 }
 
 const wenshuo: Developer = {
