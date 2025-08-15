@@ -80,58 +80,58 @@ const wenshuo: Developer = {
 <tr>
 <td width="50%">
 
-### 🌟 NSERC CityGetaway
-**AI Travel Platform**
-- Flask REST API + React Frontend
-- OpenAI ChatGPT Integration  
-- 98% Data Accuracy
-- 40% User Engagement Boost
+### 🌟 Concord AI Travel Platform
+**LLM-Powered Trip Planner**
+- Flask API + React Frontend  
+- In-house LLM for Multi-day Itineraries  
+- Real-time Collaborative Editing  
+- Dynamic JSON Generation
 
-`Tech: Flask | React | MongoDB | AI`
+`Tech: Flask | React | MongoDB | WebSocket | LLM`
 
 </td>
 <td width="50%">
 
-### 🎮 Titan Defense
-**C++ Game Engine**
-- 120 FPS Performance
-- Design Patterns Architecture
-- Procedural Map Generation
-- Raylib Graphics Engine
+### 💬 Real-Time Group Chat Platform
+**Scalable Messaging System**
+- 1,000+ Concurrent Users  
+- WebSocket-based Messaging  
+- JWT Role-based Access Control  
+- Tour Management APIs
 
-`Tech: C++ | Raylib | Patterns`
+`Tech: Node.js | WebSocket | PostgreSQL | Prisma`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 AI Narrative Assistant  
-**Dual-Purpose Chat Bot**
-- Express.js Backend
-- Docker Deployment
-- Story Generation + CS Q&A
-- Automated CI/CD Pipeline
+### 📝 Concord Registration Studio  
+**Multilingual Onboarding System**
+- React + TypeScript Frontend  
+- Real-time Validation & Auto-Recovery  
+- WCAG-Compliant Responsive Design  
+- Offline-First Data Storage
 
-`Tech: Express | Docker | ChatGPT`
+`Tech: React | TypeScript | IndexedDB | i18n`
 
 </td>
 <td width="50%">
 
-### 🐕 Pet Adoption Platform
-**Full Stack Web App** 
-- Node.js/Express Backend
-- EJS Templates + Bootstrap
-- CRUD Operations
-- Admin Dashboard
+### 🗺️ Map Visualization Module
+**Dynamic Geo-Rendering**
+- React Frontend Integration  
+- Mapbox Real-time Route Display  
+- Location Markers & Filters  
+- Backend Data Fetch & Sync
 
-`Tech: Node.js | Express | EJS`
-
+`Tech: React | Mapbox | Flask | WebSocket`
 </td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
@@ -162,3 +162,4 @@ const wenshuo: Developer = {
 <img src="https://komarev.com/ghpvc/?username=peiwenshuo&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
+
