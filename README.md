@@ -15,26 +15,26 @@
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+<h2 align="center"> Tech Stack & Tools</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,html,css,r&theme=dark" />
 </p>
 
-### 🛠️ Frameworks & Libraries  
+###  Frameworks & Libraries  
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,bootstrap,tailwind,jquery,materialui&theme=dark" />
 </p>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws,gcp,firebase,redis&theme=dark" />
 </p>
 
-### ⚙️ Tools & Technologies
+###  Tools & Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,vscode,figma,postman,github&theme=dark" />
 </p>
@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="center">💼 What I'm Working On</h2>
+<h2 align="center"> What I'm Working On</h2>
 
 <div align="center">
 
@@ -60,8 +60,8 @@ const wenshuo: Developer = {
   name: "Wenshuo Pei",
   role: ["Full Stack Developer"],
   currentProjects: [
-    "🤖 AI Travel Assistant",
-    "🌍 Concord Travel Platform"
+    " AI Travel Assistant",
+    " Concord Travel Platform"
   ],
   learning: ["Machine Learning", "React", "Cloud Computing", "System Design"],
   interests: ["AI", "Full Stack", "Game Dev", "Travel Tech", "Open Source"]
@@ -72,7 +72,7 @@ const wenshuo: Developer = {
 
 ---
 
-<h2 align="center">🎯 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
 
@@ -80,7 +80,7 @@ const wenshuo: Developer = {
 <tr>
 <td width="50%">
 
-### 🌟 Concord AI Travel Platform
+###  Concord AI Travel Platform
 **LLM-Powered Trip Planner**
 - Flask API + React Frontend  
 - In-house LLM for Multi-day Itineraries  
@@ -92,7 +92,7 @@ const wenshuo: Developer = {
 </td>
 <td width="50%">
 
-### 💬 Real-Time Group Chat Platform
+###  Real-Time Group Chat Platform
 **Scalable Messaging System**
 - 1,000+ Concurrent Users  
 - WebSocket-based Messaging  
@@ -106,7 +106,7 @@ const wenshuo: Developer = {
 <tr>
 <td width="50%">
 
-### 📝 Concord Registration Studio  
+###  Concord Registration Studio  
 **Multilingual Onboarding System**
 - React + TypeScript Frontend  
 - Real-time Validation & Auto-Recovery  
@@ -118,7 +118,7 @@ const wenshuo: Developer = {
 </td>
 <td width="50%">
 
-### 🗺️ Map Visualization Module
+###  Map Visualization Module
 **Dynamic Geo-Rendering**
 - React Frontend Integration  
 - Mapbox Real-time Route Display  
@@ -137,7 +137,7 @@ const wenshuo: Developer = {
 
 <div align="center">
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <a href="https://www.linkedin.com/in/wenshuo-pei-24890321a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -162,4 +162,5 @@ const wenshuo: Developer = {
 <img src="https://komarev.com/ghpvc/?username=peiwenshuo&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
+
 
